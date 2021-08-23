@@ -13,5 +13,6 @@ public class Mainstudent {
         System.out.println("asdasdasdasdasdad");
         System.out.println("asdasdasdsadsadasdasdasd");
         System.out.println("Asdasdasdasdadasdasdasdasdad+++++++++++++");
+        System.out.println("欢迎学习github  +来一起成长  micheal哒哒");
     }
 }
