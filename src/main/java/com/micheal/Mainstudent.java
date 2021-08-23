@@ -12,5 +12,6 @@ public class Mainstudent {
         System.out.println("dasdadasdasdasdasdasdadsad");
         System.out.println("asdasdasdasdasdad");
         System.out.println("asdasdasdsadsadasdasdasd");
+        System.out.println("Asdasdasdasdadasdasdasdasdad+++++++++++++");
     }
 }
